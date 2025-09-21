@@ -8,9 +8,9 @@
   "githubText": "Do you like this blog's design?",
   "portfolioImage": "/images/portfolio.webp",
   "email": "howiecong@163.com",
-  "linkedin": "https://www.linkedin.com/in/efeele/",
+  "linkedin": "null",
   "instagram": "https://www.instagram.com/howiecong_828/",
-  "youtube": "https://www.youtube.com/@efeeledev",
+  "youtube": "null",
   "alias": "HowieCong",
   "contactSectionTitle": "Ready to take your idea to the next level?",
   "contactSectionSubtitle": "Let's work together.",
@@ -23,12 +23,9 @@
   "linkedinIconName": "linkedin",
   "emailIconName": "envelope",
   "hobbies": [
-    "Writing",
-    "Camping",
     "Coffee",
     "Music",
-    "Movies",
-    "Board Games"
+    "Travel"
   ],
   "pageTitle": "NeonMint by | Fernando Lopez | EFEELE",
   "pageDescription": "Is a modern, minimalist template crafted for developers and digital creatives.",
