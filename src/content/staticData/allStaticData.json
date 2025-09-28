@@ -1,8 +1,8 @@
 {
   "profileImage": "/images/efeeleprofile.webp",
-  "profileAlt": "Photo of Fernando Aldair López Ponce (EFEELE) for the blog",
+  "profileAlt": "Photo of HowieCong for the blog",
   "profileLink": "/about-me",
-  "profileTitle": "FrontEnd Developer",
+  "profileTitle": "Full-Stack Developer",
   "profileName": "HowieCong",
   "github": "https://github.com/HowieCong",
   "githubText": "Do you like this blog's design?",
@@ -25,9 +25,10 @@
   "hobbies": [
     "Coffee",
     "Music",
-    "Travel"
+    "Travel",
+    "Football"
   ],
-  "pageTitle": "NeonMint by | Fernando Lopez | EFEELE",
+  "pageTitle": "HowieCong-Blog",
   "pageDescription": "Is a modern, minimalist template crafted for developers and digital creatives.",
   "OGImage": {
     "url": "/images/imagedefault.webp",
