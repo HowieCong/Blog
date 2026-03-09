@@ -98,6 +98,22 @@ export const languages: Record<string, Language> = {
     name: "Windsurf",
     iconName: "windsurf-logo",
   },
+  react: {
+    name: "React",
+    iconName: "react",
+  },
+  vue: {
+    name: "Vue",
+    iconName: "vue",
+  },
+  koa: {
+    name: "Koa.js",
+    iconName: "koa",
+  },
+  pgsql: {
+    name: "PostgreSQL",
+    iconName: "pgsql",
+  },
   cursor: {
     name: "Cursor",
     iconName: "cursor-ia",
